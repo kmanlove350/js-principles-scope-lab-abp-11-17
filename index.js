@@ -20,6 +20,6 @@ function changeLeastFavoriteCustomer()  {
 }
 
 function attemptTwoFavoriteCustomers()  {
-  let favoriteCustomer = 'new favorite'
-  let favoriteCustomer = 'really new favorite'
+  let favoriteCustomer = 'bar'
+  let favoriteCustomer = 'not bar'
 }
