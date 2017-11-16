@@ -1,5 +1,5 @@
 // Write your solution in this file!
-var customerName = 'Kaitlyn'
+var customerName = 'bob'
 var favoriteCustomer = 'favorite'
 const leastFavoriteCustomer = 'least'
 
